@@ -137,6 +137,7 @@ ul.list-featured-post li a.post-title {
 #content {
     flex: 765px;
     padding-right: 15px;
+    min-height: 800px;
 }
 
 #sidebar {
